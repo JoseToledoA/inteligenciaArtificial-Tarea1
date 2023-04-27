@@ -1,0 +1,22 @@
+Init: A
+Goal: H
+
+A
+B
+C
+D
+E
+F
+G
+H
+
+A C 6
+A B 11
+B E 3
+B D 4
+C F 3
+C E 10
+D H 3
+E H 5
+F G 1
+G E 4
